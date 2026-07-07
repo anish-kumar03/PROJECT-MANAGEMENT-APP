@@ -1,0 +1,22 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "A project management application for begineers",
+  "keywords": [
+    "Udemy",
+    "course",
+    "backend",
+    "API",
+    "Creation"
+  ],
+  "license": "ISC",
+  "author": "Anish",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.4"
+  }
+}
